@@ -1,4 +1,4 @@
-# 🌐⛓️ Web3SSH-Ascendant: Resolving Freelance Disputes with AI Precision and Web3 Integrity
+# 🌐⛓️ Web3SSH-Ascendant: AI-Arbitrator: Decentralized Escrow with AI-Powered Work Evaluation
 ## 🚀 Overview
 
 Traditional smart contracts lack the ability to resolve complex or subjective disputes—such as evaluating freelance work quality or interpreting agreement terms. **Web3SSH-Ascendant** addresses this limitation by integrating AI-driven analysis with blockchain-based enforcement for fast, fair, and transparent conflict resolution.
