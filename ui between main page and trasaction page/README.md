@@ -210,22 +210,3 @@ python gemini_analyzer.py  # Start development server
 
 ### Mock Mode
 If Gemini AI credentials are not configured, the system will run in mock mode, providing sample analysis results for testing purposes.
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## License
-
-This project is licensed under the MIT License.
-
-## Support
-
-For support and questions:
-- Check the troubleshooting section
-- Review the API documentation
-- Open an issue on GitHub 
