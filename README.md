@@ -1,9 +1,8 @@
-# web3ssh-AScendant-
-<h2> Problem
-<h4> Traditional smart contracts are great for automation but fail when human judgment is needed like assessing the quality of freelance work or resolving subjective disputes. 
-<h2> Solution
-<h4> We introduce an AI-Powered system built on BlockChain that integrates Vertex-AI with Chainlink oracles to evaluate dispute evidence and deliver fair, automated verdicts directly to a Solidity-based escrow contract.
-<hr>
+# 🌐⛓️ Web3SSH-Ascendant: Resolving Freelance Disputes with AI Precision and Web3 Integrity
+## 🚀 Overview
+
+Traditional smart contracts lack the ability to resolve complex or subjective disputes—such as evaluating freelance work quality or interpreting agreement terms. **Web3SSH-Ascendant** addresses this limitation by integrating AI-driven analysis with blockchain-based enforcement for fast, fair, and transparent conflict resolution.
+
 ---
 
 ## 🔍 The Problem
